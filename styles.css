@@ -1,0 +1,88 @@
+body{
+    background-color: white;
+}
+
+div{
+    font-size:  38px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
+span{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    background-color: black;
+    color: white;
+}
+
+.container{
+    display: flex;
+    max-width: 20px;
+    padding: 15px;
+}
+
+a{
+    color: greenyellow;
+}
+
+.nav{
+    justify-content: safe;
+}
+
+.navbar{
+    height: 64px;
+}
+
+h1{
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+td{
+font-size: 35px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+background-color: black;
+color: mintcream;
+}
+
+.flex{
+    background-color: rgb(0, 0, 0);
+}
+
+textarea{
+    font-size: 15px;
+    size: 15px;
+}
+
+select{
+    size: 20px;
+    font-size: 20px;
+}
+
+.container{
+    text-align: justify;
+    max-width: 100%;
+}
+
+ul{
+    list-style: none;
+    background-color: black;
+}
+
+font{
+        font-family: 'Times New Roman', Times, serif;
+}
+
+u{
+ color: teal;
+}
+
+p{
+    color: rgb(148, 255, 172);
+}
+
+button{
+    size: 20px;
+}
